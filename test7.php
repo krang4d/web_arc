@@ -188,7 +188,7 @@ var config = {
         name: 'layout',
         padding: 0,
         panels: [
-            { type: 'lef0, resizable: true, minSize: 120 },
+            { type: 'left', resizable: true, minSize: 120 },
             { type: 'main', minSize: 400, overflow: 'hidden' },
         ]
     },
